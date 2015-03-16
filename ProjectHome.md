@@ -1,0 +1,1 @@
+A simple project that has a base class that utilizes MySql.Data.dll from Oracle to connect to
